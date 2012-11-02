@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "AutomationTest", "AutomationTest.exe", "{69F46B0E-62AF-44B5-A203-E0F90250C6E1}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Documents and Settings\quang.nguyen\My Documents\Dropbox\Automation\trunk\v9\AutomationTest\AutomationTest\bin\Debug\AutomationTest.exe
+		RemoteMachine = YP-QUANGNGUYEN
+		StartingDirectory = C:\Documents and Settings\quang.nguyen\My Documents\Dropbox\Automation\trunk\v9\AutomationTest\AutomationTest\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F46B0E-62AF-44B5-A203-E0F90250C6E1}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

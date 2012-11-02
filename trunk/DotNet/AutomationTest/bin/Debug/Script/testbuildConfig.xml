@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TestConfig ID="1" Name="MEPATH" Value="D:\\Working\\Performance test\\MECore\\VCClass" />
+  <TestConfig ID="3" Name="ARGUMENT" Value="1" />
+  <TestCommand ID="1" Keyword="Activation" Object="D:\Working\YP Automation FrameWork\trunk\sources\DotNet\ApplicationMap\AccumulatePerformance\AccumulateKeyword\bin\Debug\AccumulateKeyword.dll" Target="AccumulateKeyword.MEKeyword" Function="Void InvokeCommand(String csvFile)" />
+  <TestCase ID="1" Name="Activation1" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="1" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="2" Name="Activation2" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="2" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="3" Name="Activation3" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="3" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="4" Name="Activation4" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="4" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="5" Name="Activation5" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="5" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="6" Name="Activation6" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="6" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="7" Name="Activation7" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="7" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="8" Name="Activation8" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="8" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+  <TestCase ID="9" Name="Activation9" Parameters="csvFile" Behavior="SEQUENCE" State="NOTRUN">
+    <TestStep ID="9" Keyword="Activation" Parameters="csvFile" Output="" />
+  </TestCase>
+</Config>

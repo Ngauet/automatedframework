@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Input>
+  <TestCase ID="1" Name="Activation1">
+    <TestData Values="in1.csv" />
+  </TestCase>
+  <TestCase ID="2" Name="Activation2">
+    <TestData Values="in2.csv" />
+  </TestCase>
+  <TestCase ID="3" Name="Activation3">
+    <TestData Values="in3.csv" />
+  </TestCase>
+  <TestCase ID="4" Name="Activation4">
+    <TestData Values="in4.csv" />
+  </TestCase>
+  <TestCase ID="5" Name="Activation5">
+    <TestData Values="in5.csv" />
+  </TestCase>
+  <TestCase ID="6" Name="Activation6">
+    <TestData Values="in6.csv" />
+  </TestCase>
+  <TestCase ID="7" Name="Activation7">
+    <TestData Values="in7.csv" />
+  </TestCase>
+  <TestCase ID="8" Name="Activation8">
+    <TestData Values="in8.csv" />
+  </TestCase>
+  <TestCase ID="9" Name="Activation9">
+    <TestData Values="in9.csv" />
+  </TestCase>
+</Input>

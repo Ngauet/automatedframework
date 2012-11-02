@@ -1,0 +1,76 @@
+
+\r\n\r\n---------------------------------------------\r\n2012-09-17 14:54:15,929 [1] DEBUG - Start feature.Start feature Debug in multithread mode
+2012-09-17 14:54:16,241 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in1.csv	
+Result : 
+2012-09-17 14:54:16,382 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in2.csv	
+Result : 
+2012-09-17 14:54:16,429 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in3.csv	
+Result : 
+2012-09-17 14:54:16,476 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in4.csv	
+Result : 
+2012-09-17 14:54:16,523 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in5.csv	
+Result : 
+2012-09-17 14:54:16,570 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in6.csv	
+Result : 
+2012-09-17 14:54:16,616 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in7.csv	
+Result : 
+2012-09-17 14:54:16,663 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in8.csv	
+Result : 
+2012-09-17 14:54:16,710 [Worker0] DEBUG - Step: Activation PASS.Excute function:Void Activation(String csvFile)
+ Input parameters:csvFile = in9.csv	
+Result : 
+\r\n\r\n---------------------------------------------\r\n2012-09-18 18:03:51,883 [1] DEBUG - Start feature.Start feature Generate TCommand with file
+\r\n---------------------------------------------\r\n\r\n\r\n\r\n---------------------------------------------\r\n2012-09-20 15:36:22,605 [10] DEBUG - Start feature.Start feature DebugTestCases
+2012-09-20 15:36:24,230 [10] DEBUG - Debug testcase Activation1(csvFile)Arguments:Param 1:String csvFile	
+ Input values = in1.csv
+2012-09-20 15:36:24,402 [10] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in1.csv	
+Result : 
+2012-09-20 15:36:24,402 [10] DEBUG - Debug testcase Activation1.PASS
+<Activation></Activation>
+\r\n---------------------------------------------\r\n\r\n\r\n\r\n---------------------------------------------\r\n2012-09-20 15:36:42,527 [10] DEBUG - Start feature.Start feature DebugTestCases
+2012-09-20 15:36:43,621 [10] DEBUG - Debug testcase Activation2(csvFile)Arguments:Param 1:String csvFile	
+ Input values = in2.csv
+2012-09-20 15:36:43,715 [10] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in2.csv	
+Result : 
+2012-09-20 15:36:43,715 [10] DEBUG - Debug testcase Activation2.PASS
+<Activation></Activation>
+\r\n---------------------------------------------\r\n\r\n\r\n\r\n---------------------------------------------\r\n2012-09-20 16:07:41,730 [11] DEBUG - Start feature.Start feature Debug in multithread mode
+\r\n\r\n---------------------------------------------\r\n2012-09-20 16:09:00,871 [1] DEBUG - Start feature.Start feature Debug in multithread mode
+\r\n\r\n---------------------------------------------\r\n2012-09-20 16:14:51,496 [10] DEBUG - Start feature.Start feature Debug in multithread mode
+\r\n\r\n---------------------------------------------\r\n2012-09-20 16:15:15,621 [10] DEBUG - Start feature.Start feature Debug in multithread mode
+\r\n\r\n---------------------------------------------\r\n2012-09-20 18:00:34,761 [1] DEBUG - Start feature.Start feature Build Release
+\r\n---------------------------------------------\r\n\r\n\r\n\r\n---------------------------------------------\r\n2012-09-25 17:20:24,918 [10] DEBUG - Start feature.Start feature Debug in multithread mode
+2012-09-25 17:54:51,756 [Worker8] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in9.csv	
+Result : 
+2012-09-25 17:54:52,225 [Worker7] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in8.csv	
+Result : 
+2012-09-25 17:54:52,678 [Worker6] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in7.csv	
+Result : 
+2012-09-25 17:54:53,163 [Worker5] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in6.csv	
+Result : 
+2012-09-25 17:54:53,616 [Worker4] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in5.csv	
+Result : 
+2012-09-25 17:54:54,085 [Worker3] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in4.csv	
+Result : 
+2012-09-25 17:54:54,522 [Worker2] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in3.csv	
+Result : 
+2012-09-25 17:54:54,975 [Worker1] DEBUG - Step: Activation PASS.Excute function:Void InvokeCommand(String csvFile)
+ Input parameters:csvFile = in2.csv	
+Result : 
