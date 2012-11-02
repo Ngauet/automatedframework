@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportBuild Date="20_00_2012 : 06_00_39">
+  <Report Date="20_00_2012 : 06_00_52">
+    <TestCase Name="Activation1">
+      <TestData Values="in1.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation2">
+      <TestData Values="in2.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation3">
+      <TestData Values="in3.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation4">
+      <TestData Values="in4.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation5">
+      <TestData Values="in5.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation6">
+      <TestData Values="in6.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation7">
+      <TestData Values="in7.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation8">
+      <TestData Values="in8.csv" Result="PASS" Comment="" />
+    </TestCase>
+    <TestCase Name="Activation9">
+      <TestData Values="in9.csv" Result="PASS" Comment="" />
+    </TestCase>
+  </Report>
+</ReportBuild>
