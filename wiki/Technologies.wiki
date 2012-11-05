@@ -7,14 +7,19 @@
 
 = Details =
 
-*.Net*
+==.Net==
+*Window services*
 
-#Window services#
-#Asp.Net# 
-#SQL Server#
-#Reflection: used to invoke a function from dll file or .exe file#
-#CodeDom: used to build an independent software.#
-#Linq: used to interact with DB.#
-#Diagnostic: used to interact with an application.#
+*Asp.Net*
 
-*JAVA*
+*SQL Server*
+
+*Reflection: used to invoke a function from dll file or .exe file*
+
+*CodeDom: used to build an independent software.*
+
+*Linq: used to interact with DB.*
+
+*Diagnostic: used to interact with an application.*
+
+==JAVA==
