@@ -9,12 +9,12 @@
 
 *.Net*
 
-#Window services
-#Asp.Net 
-#SQL Server
-#Reflection: used to invoke a function from dll file or .exe file
-#CodeDom: used to build an independent software.
-#Linq: used to interact with DB.
-#Diagnostic: used to interact with an application.
+#Window services#
+#Asp.Net# 
+#SQL Server#
+#Reflection: used to invoke a function from dll file or .exe file#
+#CodeDom: used to build an independent software.#
+#Linq: used to interact with DB.#
+#Diagnostic: used to interact with an application.#
 
 *JAVA*
