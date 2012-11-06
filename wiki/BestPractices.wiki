@@ -8,10 +8,16 @@
 
 = Details =
 ==1.	Starting Automation==
+
 a)	Describe more exect what software do.
+
 b)	Developers have to design the system to make to testable.
+
 c)	Avoid automating existing manual test scripts
-d)	If the test is described as a sequence of interdependent steps, it will be very hard to understand what exactly caused the problem, because the context changes throughout the script.
+
+d)	If the test is described as a sequence of interdependent steps, 
+it will be very hard to understand what exactly caused the problem, because the context changes throughout the script.
+
 e)	Don't treat automation code as second-grade code.
 
 ==2.	Managing the automation==
