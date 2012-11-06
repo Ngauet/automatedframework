@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+Sharing some automation best practices.
+= Introduction =
+
+- 3 years experience in automation testing.
+- 3 years experience in software developing.
+
+
+= Details =
+
+====
